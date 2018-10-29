@@ -36,4 +36,4 @@ filename                     |  description
 -----------------------------|------------------------------------------------------------------------------------
 singleHist.py                |  Define a class SingleHist which makes histogram of data
 readWrite.py                 |  Define a class ReadWrite which reads parameters values from file names
-analysis.py                  |  Analyzed the pre-processed dat
+analysis.py                  |  Analyzed the pre-processed data
