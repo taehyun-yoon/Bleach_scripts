@@ -11,9 +11,9 @@ TimeTagger saves photon pulses in a file "tags.txt". These raw data are processe
 Dependencies
 ------------
 
-- "process.c" is written in C/C++
+- "process.c" is written in C
 
-- All other codes are wrtten  in python3
+- All other codes are wrtten in python3
 
 Description of files
 --------------------
